@@ -20,10 +20,7 @@ How It Works
 
 Upload a PDF → Extract text → Split into chunks → Convert to embeddings → Ask question → AI retrieves relevant data → Generates answer
 
-Installation
-git clone https://github.com/rehanaabbas/AI-pdf-chatbot.git
-cd AI-pdf-chatbot
-pip install -r requirements.txt
+
 Run Project
 streamlit run app.py
 or
@@ -31,6 +28,4 @@ python app.py
                                          Author:Rehana Abbas     
                                              AI developer
 
-License
 
-This project is for educational purposes.
